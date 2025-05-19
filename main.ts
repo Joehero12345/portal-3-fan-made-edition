@@ -606,9 +606,6 @@ let orange_portal: Sprite = null
 let current_portal = 0
 let mySprite2: Sprite = null
 let mySprite: Sprite = null
-color.setPalette(
-color.originalPalette
-)
 namespace userconfig {
     export const ARCADE_SCREEN_WIDTH = 224
     export const ARCADE_SCREEN_HEIGHT = 164
