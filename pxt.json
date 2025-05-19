@@ -1,0 +1,60 @@
+{
+    "name": "Portal 3 fan made edition - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "browser-events": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "radio-broadcast": "*",
+        "pxt-zoom": "github:kiwiphoenix364/pxt-zoom#v2.0.1",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "corgio": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#403F3F",
+        "#5C406c",
+        "#E5CDC4",
+        "#3A1111",
+        "#000000"
+    ]
+}
